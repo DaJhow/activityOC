@@ -1,0 +1,12 @@
+* {
+	font-family: monospace, sans-serif;
+}
+
+body {
+	margin: auto;
+	width: 80%;
+}
+
+footer {
+	background-color: #FF2334;
+}
